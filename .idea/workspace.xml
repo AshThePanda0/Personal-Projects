@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302cf5c6-916f-490f-abad-13f3fe1b461c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Organizer.py" afterDir="false" />
-    </list>
+    <list default="true" id="302cf5c6-916f-490f-abad-13f3fe1b461c" name="Changes" comment="Beginning Of organizer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AshThePanda0/Personal-Projects.git",
+    "accountId": "c5ec0fcf-4dea-44fb-bfab-9e604724d202"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -67,12 +66,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757774015315</updated>
-      <workItem from="1757774016374" duration="2142000" />
+      <workItem from="1757774016374" duration="2975000" />
     </task>
+    <task id="LOCAL-00001" summary="Beginning Of organizer">
+      <option name="closed" value="true" />
+      <created>1757776495541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757776495541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Beginning Of organizer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beginning Of organizer" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$Organizer.coverage" NAME="Organizer Coverage Results" MODIFIED="1757776070070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
