@@ -1,3 +1,5 @@
+#Tell user the program
+print("This is a assignment organizer")
 #Ask user how many assignments
 print("How many assignments: ")
 n = int(input())
