@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="302cf5c6-916f-490f-abad-13f3fe1b461c" name="Changes" comment="Military Time Converter.py&#10;military time done&#10;standard time incomplete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Military Time Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Military Time Converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762029693350</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Military Time Converter.py&#10;military time done&#10;standard time incomplete">
+      <option name="closed" value="true" />
+      <created>1762129636067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762129636067</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
